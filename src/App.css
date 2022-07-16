@@ -32,7 +32,16 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.first {
+  margin: 140px 30px 70px auto;
+  font-weight: bold;
+  font-size: 5vw;
+  color: #0b551a;
+  font-style: italic;
 }
