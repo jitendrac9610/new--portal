@@ -25,7 +25,7 @@ ___
 ### Science Category
 ![Science](./previews/Science.png)
 ### Sports Category
-![Sports](./previews/sports.png)
+![Sports](./previews/Sports.png)
 ### Technology Category
 ![Technology](./previews/Technology.png)
 ### Loading Spinner
