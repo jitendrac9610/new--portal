@@ -1,4 +1,4 @@
-# NewsNinja - Latest News Anywhere Anytime
+# NewsMonkey - Latest News Anywhere Anytime
 ## **Tech Stack** : 
 * HTML
 * CSS
