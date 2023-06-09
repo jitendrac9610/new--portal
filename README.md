@@ -15,23 +15,23 @@ ___
 ___
 ## **Previews** : 
 ### Home Page (Top Headlines from all Categories)
-![Home](./previews/home.png)
+![Home](https://drive.google.com/uc?export=view&id=1MVaVrkRHujafjV8VvnimEbNsfFN4jeR0)
 ### Business Category
-![Business](./previews/Business.png)
+![Business](https://drive.google.com/uc?export=view&id=1MJtYvz0KWf2YFCjkVGJxSMPpHQHcxdNC)
 ### Entertainment Category
-![Entertainment](./previews/Entertainment.png)
+![Entertainment](https://drive.google.com/uc?export=view&id=1LxLmV1U5yGHpDsb1vIFiHbzUaQceTAVu)
 ### Health Category
-![Health](./previews/Health.png)
+![Health](https://drive.google.com/uc?export=view&id=1M6VuLMThroOzrSRuyPqKGKOd1QLSsOzx)
 ### Science Category
-![Science](./previews/Science.png)
+![Science](https://drive.google.com/uc?export=view&id=1MPfSy9liSOgCqoI9RwJ2a4bMVf1Xyq4H)
 ### Sports Category
-![Sports](./previews/Sports.png)
+![Sports](https://drive.google.com/uc?export=view&id=1M4qwqKxCkJG59zUB0wsInoToXlXBH5g0)
 ### Technology Category
-![Technology](./previews/Technology.png)
+![Technology](https://drive.google.com/uc?export=view&id=1M7iCCEIj9vWem-ybNT8sYMQFcruaa-LB)
 ### Loading Spinner
-![spinner](./previews/spinner.png)
+![spinner](https://drive.google.com/uc?export=view&id=1M8ar577L-DSvIxzpLdjqVmYtOmMXD87O)
 ### Loading Bar
-![Bar](./previews/Bar.png)
+![Bar](https://drive.google.com/uc?export=view&id=1MT0gHEj6V0_F5oY6pH4ghRc_Zvfcz6Uc)
 
 ___
 ## **Download Links** : 
